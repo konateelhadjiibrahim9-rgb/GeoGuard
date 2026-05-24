@@ -1,3 +1,4 @@
+import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:mobile/services/api_service.dart';
 import 'register_screen.dart';
