@@ -1,0 +1,25 @@
+# Laravel Backend
+backend/.env
+backend/vendor/
+backend/bootstrap/cache/
+backend/storage/*.key
+backend/public/storage
+backend/database/*.sqlite
+
+# Flutter Mobile
+mobile/.build/
+mobile/.dart_tool/
+mobile/.packages
+mobile/.pub-cache/
+mobile/.pub/
+mobile/build/
+mobile/android/.gradle/
+mobile/android/local.properties
+mobile/android/app/local.properties
+mobile/android/Flutter/Generated.xcconfig
+mobile/android/Flutter/flutter_export_environment.sh
+
+# OS génériques
+.DS_Store
+.idea/
+.vscode/
